@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/rahunak/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="tel:+375257810998">
+  <a href="tel:375257810998">
     <img src="https://img.shields.io/badge/Viber-purple?style=for-the-badge&logo=viber&logoColor=white" alt="Viber Badge"/>
   </a>
   <a href="https://t.me/eugeneZaiko">
