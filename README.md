@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
-- :telescope: I’m working as a Drupal Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Full-stack Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content.
 
