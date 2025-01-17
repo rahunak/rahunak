@@ -7,7 +7,7 @@
     <a href="https://rahunak.github.io/PortfolioZaiko.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=dependabot&logoColor=yellow" alt="Portfolio Badge"/>
   </a>
-  <a href="https://t.me/eugeneZaiko">
+  <a href="https://t.me/eugene_rahunak">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
