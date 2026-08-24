@@ -26,9 +26,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
+- :zap: In my free time, I solve problems, working on own projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zaiko_Eugene-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahunak/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zaiko_Eugene-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-zaiko/)
 
 ---
 
