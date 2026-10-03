@@ -7,7 +7,7 @@
     <a href="https://safesync.dev/">
     <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=dependabot&logoColor=yellow" alt="Portfolio Badge"/>
   </a>
-  <a href="https://t.me/eugene_rahunak">
+  <a href="https://t.me/rahunak">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
